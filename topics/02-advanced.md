@@ -20,7 +20,7 @@
 
 ## Remotes
 - Adding a "remote"
-- Updating locally-stored information about the "remote" (git fetch --remote)
+- Updating locally-stored information about the "remote" (`git fetch <remote>`)
 
 # GitHub
 - Submitting a Pull request
